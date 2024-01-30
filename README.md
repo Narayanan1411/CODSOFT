@@ -19,7 +19,7 @@ In this task, I developed a fraud detection model utilizing algorithms such as L
 
 Linkedin video : 
 Credit Card Fraud Detection:
-https://www.linkedin.com/posts/cr-madhan-sai-ai_creditcardfrauddetection-codsoft-codsoftinternship-activity-7146701418295406592-ApUF?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/narayanan-padmanaban-a5a415252_creditcardfrauddetection-codsoft-codsoftinternship-activity-7158097795797676032-fSd4?utm_source=share&utm_medium=member_desktop
 
 ## Task 3: Spam SMS Detection
 
