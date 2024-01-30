@@ -8,9 +8,9 @@ More details on the structure, working and requirements are available in the REA
 '''
 
 # AUTHOR: Narayanan P
-# TASK NAME: Movie Genre Classification
 # TASK NAME: Credit card fraud detection
 # 2st Task in the List of Tasks
+#Machine Learning
 # DATE OF SUBMISSION: 02-02-2024
 # LinkedIn Profile:https://www.linkedin.com/in/narayanan-padmanaban-a5a415252/
 #Github Profile:https://github.com/Narayanan1411
