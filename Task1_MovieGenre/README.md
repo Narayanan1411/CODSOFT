@@ -58,6 +58,6 @@ https://www.linkedin.com/posts/cr-madhan-sai-ai_moivegenreclassification-codsoft
 
 ### Author
 
-Latheef Ahmed A
-> Contact me @ [LinkedIn](https://www.linkedin.com/in/latheef-ahmed-13a3aa267) | [Email](mailto:lathad046@rmkcet.ac.in)
+Narayanan P
+> Contact me @ [LinkedIn](https://www.linkedin.com/in/narayanan-padmanaban-a5a415252/) | [Email](mailto:naraad060@rmkcet.ac.in)
 
