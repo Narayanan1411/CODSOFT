@@ -11,7 +11,7 @@ For this task, I implemented an ML model using TF-IDF and Naive Bayes classifier
 
 Linkedin Video:
 Movie Genre Classification:
-https://www.linkedin.com/posts/cr-madhan-sai-ai_moivegenreclassification-codsoft-codsoftinternship-activity-7146700824394555392-DcNe?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/narayanan-padmanaban-a5a415252_moivegenreclassification-codsoft-codsoftinternship-activity-7158090312677031936-NboY?utm_source=share&utm_medium=member_desktop
 
 ## Task 2: Credit Card Fraud Detection
 ### Task Description: *Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate.*
