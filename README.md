@@ -37,5 +37,5 @@ spam sms detection :
 https://www.linkedin.com/posts/cr-madhan-sai-ai_spamsmsdetection-codsoft-codsoftinternship-activity-7146702106366779392-_rcj?utm_source=share&utm_medium=member_desktop
 
 
-Latheef Ahmed A
-> Contact me @ [LinkedIn](https://www.linkedin.com/in/latheef-ahmed-13a3aa267) | [Email](mailto:lathad046@rmkcet.ac.in)
+Narayanan P
+> Contact me @ [LinkedIn](https://www.linkedin.com/in/narayanan-padmanaban-a5a415252/) | [Email](mailto:naraad060@rmkcet.ac.in)
